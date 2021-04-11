@@ -1,0 +1,23 @@
+-I/usr/local/include
+-F/usr/local/lib
+-I/usr/local/include/QtScript
+-I/usr/local/include/QtGui
+-I/usr/local/lib/QtCore.framework/Headers
+-I/Users/boulderzl/Dropbox/Air Team Folder/Simulation/NCSPICE/build/qucs-filter
+-I/usr/local/include
+-F/usr/local/lib
+-I/usr/local/include/QtScript
+-I/usr/local/include/QtGui
+-I/usr/local/lib/QtCore.framework/Headers
+-D$<$<NOT:$<CONFIG:Debug>>:QT_NO_DEBUG>
+-DQT_SCRIPT_LIB
+-DQT_GUI_LIB
+-DQT_CORE_LIB
+-DHAVE_CONFIG_H
+-D$<$<NOT:$<CONFIG:Debug>>:QT_NO_DEBUG>
+-DQT_SCRIPT_LIB
+-DQT_GUI_LIB
+-DQT_CORE_LIB
+-o
+/Users/boulderzl/Dropbox/Air Team Folder/Simulation/NCSPICE/build/qucs-filter/moc_qucsfilter.cxx
+/Users/boulderzl/Dropbox/Air Team Folder/Simulation/NCSPICE/qucs_s/qucs-filter/qucsfilter.h

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleExecutable</key>
+	<string>qucs-s</string>
+	<key>CFBundleGetInfoString</key>
+	<string>qucs-s 0.0.22</string>
+	<key>CFBundleIconFile</key>
+	<string>qucs.icns</string>
+	<key>CFBundleIdentifier</key>
+	<string>org.qucs</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleLongVersionString</key>
+	<string>qucs-s 0.0.22</string>
+	<key>CFBundleName</key>
+	<string>qucs-s</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>0.0.22</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>qucs-s 0.0.22</string>
+	<key>CSResourcesFileMapped</key>
+	<true/>
+	<key>NSHumanReadableCopyright</key>
+	<string>2014 Qucs team. This program is licensed under the GNU GPL</string>
+</dict>
+</plist>

@@ -1,0 +1,40 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/qucs-sactivefilter.dir/filter.cpp.o"
+  "CMakeFiles/qucs-sactivefilter.dir/filter.cpp.o.d"
+  "CMakeFiles/qucs-sactivefilter.dir/helpdialog.cpp.o"
+  "CMakeFiles/qucs-sactivefilter.dir/helpdialog.cpp.o.d"
+  "CMakeFiles/qucs-sactivefilter.dir/main.cpp.o"
+  "CMakeFiles/qucs-sactivefilter.dir/main.cpp.o.d"
+  "CMakeFiles/qucs-sactivefilter.dir/mfbfilter.cpp.o"
+  "CMakeFiles/qucs-sactivefilter.dir/mfbfilter.cpp.o.d"
+  "CMakeFiles/qucs-sactivefilter.dir/moc_helpdialog.cxx.o"
+  "CMakeFiles/qucs-sactivefilter.dir/moc_helpdialog.cxx.o.d"
+  "CMakeFiles/qucs-sactivefilter.dir/moc_qucsactivefilter.cxx.o"
+  "CMakeFiles/qucs-sactivefilter.dir/moc_qucsactivefilter.cxx.o.d"
+  "CMakeFiles/qucs-sactivefilter.dir/moc_transferfuncdialog.cxx.o"
+  "CMakeFiles/qucs-sactivefilter.dir/moc_transferfuncdialog.cxx.o.d"
+  "CMakeFiles/qucs-sactivefilter.dir/qf_poly.cpp.o"
+  "CMakeFiles/qucs-sactivefilter.dir/qf_poly.cpp.o.d"
+  "CMakeFiles/qucs-sactivefilter.dir/qrc_qucsactivefilter.cxx.o"
+  "CMakeFiles/qucs-sactivefilter.dir/qrc_qucsactivefilter.cxx.o.d"
+  "CMakeFiles/qucs-sactivefilter.dir/qucsactivefilter.cpp.o"
+  "CMakeFiles/qucs-sactivefilter.dir/qucsactivefilter.cpp.o.d"
+  "CMakeFiles/qucs-sactivefilter.dir/sallenkey.cpp.o"
+  "CMakeFiles/qucs-sactivefilter.dir/sallenkey.cpp.o.d"
+  "CMakeFiles/qucs-sactivefilter.dir/schcauer.cpp.o"
+  "CMakeFiles/qucs-sactivefilter.dir/schcauer.cpp.o.d"
+  "CMakeFiles/qucs-sactivefilter.dir/transferfuncdialog.cpp.o"
+  "CMakeFiles/qucs-sactivefilter.dir/transferfuncdialog.cpp.o.d"
+  "moc_helpdialog.cxx"
+  "moc_qucsactivefilter.cxx"
+  "moc_transferfuncdialog.cxx"
+  "qrc_qucsactivefilter.cxx"
+  "qucs-sactivefilter.app/Contents/MacOS/qucs-sactivefilter"
+  "qucs-sactivefilter.app/Contents/Resources/qucsactivefilter.icns"
+  "qucs-sactivefilter.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/qucs-sactivefilter.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

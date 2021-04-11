@@ -1,0 +1,43 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/diagrams.dir/curvediagram.cpp.o"
+  "CMakeFiles/diagrams.dir/curvediagram.cpp.o.d"
+  "CMakeFiles/diagrams.dir/diagram.cpp.o"
+  "CMakeFiles/diagrams.dir/diagram.cpp.o.d"
+  "CMakeFiles/diagrams.dir/diagramdialog.cpp.o"
+  "CMakeFiles/diagrams.dir/diagramdialog.cpp.o.d"
+  "CMakeFiles/diagrams.dir/graph.cpp.o"
+  "CMakeFiles/diagrams.dir/graph.cpp.o.d"
+  "CMakeFiles/diagrams.dir/marker.cpp.o"
+  "CMakeFiles/diagrams.dir/marker.cpp.o.d"
+  "CMakeFiles/diagrams.dir/markerdialog.cpp.o"
+  "CMakeFiles/diagrams.dir/markerdialog.cpp.o.d"
+  "CMakeFiles/diagrams.dir/moc_diagramdialog.cxx.o"
+  "CMakeFiles/diagrams.dir/moc_diagramdialog.cxx.o.d"
+  "CMakeFiles/diagrams.dir/moc_markerdialog.cxx.o"
+  "CMakeFiles/diagrams.dir/moc_markerdialog.cxx.o.d"
+  "CMakeFiles/diagrams.dir/polardiagram.cpp.o"
+  "CMakeFiles/diagrams.dir/polardiagram.cpp.o.d"
+  "CMakeFiles/diagrams.dir/psdiagram.cpp.o"
+  "CMakeFiles/diagrams.dir/psdiagram.cpp.o.d"
+  "CMakeFiles/diagrams.dir/rect3ddiagram.cpp.o"
+  "CMakeFiles/diagrams.dir/rect3ddiagram.cpp.o.d"
+  "CMakeFiles/diagrams.dir/rectdiagram.cpp.o"
+  "CMakeFiles/diagrams.dir/rectdiagram.cpp.o.d"
+  "CMakeFiles/diagrams.dir/smithdiagram.cpp.o"
+  "CMakeFiles/diagrams.dir/smithdiagram.cpp.o.d"
+  "CMakeFiles/diagrams.dir/tabdiagram.cpp.o"
+  "CMakeFiles/diagrams.dir/tabdiagram.cpp.o.d"
+  "CMakeFiles/diagrams.dir/timingdiagram.cpp.o"
+  "CMakeFiles/diagrams.dir/timingdiagram.cpp.o.d"
+  "CMakeFiles/diagrams.dir/truthdiagram.cpp.o"
+  "CMakeFiles/diagrams.dir/truthdiagram.cpp.o.d"
+  "libdiagrams.a"
+  "libdiagrams.pdb"
+  "moc_diagramdialog.cxx"
+  "moc_markerdialog.cxx"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/diagrams.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

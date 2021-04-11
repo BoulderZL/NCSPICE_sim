@@ -1,0 +1,39 @@
+-I/usr/local/include
+-F/usr/local/lib
+-I/usr/local/include/QtScript
+-I/usr/local/include/QtGui
+-I/usr/local/lib/QtCore.framework/Headers
+-I/usr/local/include
+-F/usr/local/lib
+-I/usr/local/include/Qt3Support
+-I/usr/local/include/QtScript
+-I/usr/local/include/QtSvg
+-I/usr/local/include/QtGui
+-I/usr/local/include/QtXml
+-I/usr/local/lib/QtCore.framework/Headers
+-I/Users/boulderzl/Dropbox/Air Team Folder/Simulation/NCSPICE/build/qucs
+-I/Users/boulderzl/Dropbox/Air Team Folder/Simulation/NCSPICE/qucs_s
+-I/Users/boulderzl/Dropbox/Air Team Folder/Simulation/NCSPICE/qucs_s/qucs
+-I/Users/boulderzl/Dropbox/Air Team Folder/Simulation/NCSPICE/qucs_s/qucs/components
+-I/Users/boulderzl/Dropbox/Air Team Folder/Simulation/NCSPICE/qucs_s/qucs/diagrams
+-I/Users/boulderzl/Dropbox/Air Team Folder/Simulation/NCSPICE/qucs_s/qucs/dialogs
+-I/Users/boulderzl/Dropbox/Air Team Folder/Simulation/NCSPICE/qucs_s/qucs/paintings
+-I/Users/boulderzl/Dropbox/Air Team Folder/Simulation/NCSPICE/qucs_s
+-I/Users/boulderzl/Dropbox/Air Team Folder/Simulation/NCSPICE/qucs_s/qucs/dialogs
+-I/Users/boulderzl/Dropbox/Air Team Folder/Simulation/NCSPICE/build/qucs/dialogs
+-D$<$<NOT:$<CONFIG:Debug>>:QT_NO_DEBUG>
+-DQT_SCRIPT_LIB
+-DQT_GUI_LIB
+-DQT_CORE_LIB
+-DHAVE_CONFIG_H
+-D$<$<NOT:$<CONFIG:Debug>>:QT_NO_DEBUG>
+-DQT3_SUPPORT
+-DQT_3SUPPORT_LIB
+-DQT_SCRIPT_LIB
+-DQT_SVG_LIB
+-DQT_GUI_LIB
+-DQT_XML_LIB
+-DQT_CORE_LIB
+-o
+/Users/boulderzl/Dropbox/Air Team Folder/Simulation/NCSPICE/build/qucs/dialogs/moc_newprojdialog.cxx
+/Users/boulderzl/Dropbox/Air Team Folder/Simulation/NCSPICE/qucs_s/qucs/dialogs/newprojdialog.h
