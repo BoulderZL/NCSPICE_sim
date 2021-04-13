@@ -1,0 +1,36 @@
+Ngspice started...
+
+No compatibility mode selected!
+
+
+Circuit: * qucs 0.0.22 /users/boulderzl/dropbox/air team folder/simulation/ncspice/lpf_test/lpf_test.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 307
+binary raw file "LPF_test_ac.txt"
+Reset re-loads circuit * qucs 0.0.22 /users/boulderzl/dropbox/air team folder/simulation/ncspice/lpf_test/lpf_test.sch
+
+Circuit: * qucs 0.0.22 /users/boulderzl/dropbox/air team folder/simulation/ncspice/lpf_test/lpf_test.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+
+Initial Transient Solution
+--------------------------
+
+Node                                   Voltage
+----                                   -------
+in                                           0
+out                                          0
+v1#branch                                    0
+
+
+No. of Data Rows : 83
+binary raw file "LPF_test_tran.txt"
+Reset re-loads circuit * qucs 0.0.22 /users/boulderzl/dropbox/air team folder/simulation/ncspice/lpf_test/lpf_test.sch
+
+Circuit: * qucs 0.0.22 /users/boulderzl/dropbox/air team folder/simulation/ncspice/lpf_test/lpf_test.sch
+
+ngspice-34 done
